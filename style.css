@@ -87,15 +87,3 @@ body {
   font-weight: 400;
   color: #ff465a;
 }
-
-
-@media screen and (max-width: 500px) {
-  .search-wrapper button {
-    font-size: 0.8em;
-    background-color: #3d64e6;
-    color: #ffffff;
-    padding: 0.7em 0;
-    border: none;
-    border-radius: 1em;
-  }
-}
