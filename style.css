@@ -87,3 +87,10 @@ body {
   font-weight: 400;
   color: #ff465a;
 }
+
+@media screen and (width: 600px) {
+  .search-wrapper {
+    grid-template-columns: 7fr 2fr;
+    gap: 1em;
+  }
+}
