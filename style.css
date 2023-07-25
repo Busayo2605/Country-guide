@@ -89,6 +89,14 @@ body {
 }
 
 @media screen and (width: 600px) {
+  .search-wrapper button {
+   display: block;
+  }
+
+  .search-wrapper input {
+    display: block;
+  }
+  
   .search-wrapper {
     display: block;
   }
